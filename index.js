@@ -1,5 +1,5 @@
 
-function cs() {
+function CS() {
 
     let classes = [];
 
@@ -26,4 +26,4 @@ function cs() {
 
 }
 
-export default cs;
+export default CS;
